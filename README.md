@@ -26,7 +26,7 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 #### Finally, you will be able to use a checklist provided in the course to score any company on how effectively it is embracing big data culture. Digital companies like Amazon, Uber and Airbnb are transforming entire industries through their creative use of big data. You’ll understand why these companies are so disruptive and how they use data-analytics techniques to out-compete traditional companies.
 
-**Certificate: https://www.coursera.org/account/accomplishments/verify/BCW6L3Z56R59
+**Certificate: https://www.coursera.org/account/accomplishments/verify/BCW6L3Z56R59**
 
 ### Course 2
 
