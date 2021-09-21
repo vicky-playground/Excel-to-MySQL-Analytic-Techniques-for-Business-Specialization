@@ -26,7 +26,7 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 #### Finally, you will be able to use a checklist provided in the course to score any company on how effectively it is embracing big data culture. Digital companies like Amazon, Uber and Airbnb are transforming entire industries through their creative use of big data. You’ll understand why these companies are so disruptive and how they use data-analytics techniques to out-compete traditional companies.
 
-**Certificate: https://www.coursera.org/account/accomplishments/verify/BCW6L3Z56R59**
+🏅[Certificate](https://www.coursera.org/account/accomplishments/verify/BCW6L3Z56R59)
 
 ### Course 2
 
@@ -54,7 +54,7 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 #### This course requires some mathematical background: you should already know how to solve for an unknown using algebra; and have a basic familiarity with sigma (summation) notation; the concept of logarithms and working with bases other than base 10 (including base 2, and the natural logarithm and base “e”); and probability theory concepts such as calculating conditional, product, and joint probabilities. These concepts are assumed in the course rather than taught. All the “new” math taught in the course is summarized in a downloadable PDF document - "Mathematical Supplement" – please refer to it to decide if the difficulty level of this course seems right for you.
 
-**Certificate: https://www.coursera.org/account/accomplishments/verify/YG7DXKDAKKF6
+🏅[Certificate](https://www.coursera.org/account/accomplishments/verify/YG7DXKDAKKF6)
 
 ### Course 3
 
@@ -70,7 +70,7 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 #### In this course you will learn how to become a master at communicating business-relevant implications of data analyses. By the end, you will know how to structure your data analysis projects to ensure the fruits of your hard labor yield results for your stakeholders. You will also know how to streamline your analyses and highlight their implications efficiently using visualizations in Tableau, the most popular visualization program in the business world. Using other Tableau features, you will be able to make effective visualizations that harness the human brain’s innate perceptual and cognitive tendencies to convey conclusions directly and clearly. Finally, you will be practiced in designing and persuasively presenting business “data stories” that use these visualizations, capitalizing on business-tested methods and design principles.
 
-**Certificate: https://www.coursera.org/account/accomplishments/verify/KQJBD4YE5RZ7
+🏅[Certificate](https://www.coursera.org/account/accomplishments/verify/KQJBD4YE5RZ7)
 
 ### Course 4
 
@@ -86,4 +86,4 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 #### By the end of this course, you will have a clear understanding of how relational databases work, and have a portfolio of queries you can show potential employers. Businesses are collecting increasing amounts of information with the hope that data will yield novel insights into how to improve businesses. Analysts that understand how to access this data – this means you! – will have a strong competitive advantage in this data-smitten business world.
 
-**Certificate: https://www.coursera.org/account/accomplishments/verify/4ZKWPVA78MUH
+🏅[Certificate](https://www.coursera.org/account/accomplishments/verify/4ZKWPVA78MUH)
