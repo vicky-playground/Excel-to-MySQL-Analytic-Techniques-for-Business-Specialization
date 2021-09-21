@@ -1,4 +1,6 @@
 # Excel-to-MySQL-Analytic-Techniques-for-Business-Specialization
+![1280px-Duke_University_logo svg](https://user-images.githubusercontent.com/90204593/134224108-ccca3b9e-d5ae-45c6-9d43-44b81decba7b.png)
+
 https://www.coursera.org/specializations/excel-mysql
 
 In this Specialization, you’ll learn to frame business challenges as data questions. You’ll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, you’ll apply your skills to explore and justify improvements to a real-world business process.
