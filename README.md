@@ -7,8 +7,6 @@ The Capstone Project focuses on optimizing revenues from residential property, a
 
 28 weeks - 195 hours
 
-Certificate: https://www.coursera.org/account/accomplishments/specialization/NN562XMZJSMQ
-
 Course 1: Business Metrics for Data-Driven Companies
 https://www.coursera.org/learn/analytics-business-metrics/home/info
 
@@ -20,7 +18,7 @@ Finally, you will be able to use a checklist provided in the course to score any
 
 4 weeks, 3-5 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/T46N8GSEBF6H
+Certificate: https://www.coursera.org/account/accomplishments/verify/BCW6L3Z56R59
 
 Course 2: Mastering Data Analysis in Excel
 https://www.coursera.org/learn/analytics-excel/home/info
@@ -43,7 +41,7 @@ This course requires some mathematical background: you should already know how t
 
 6 weeks, 3 - 5 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/JTKVQEXGZRGL
+Certificate: https://www.coursera.org/account/accomplishments/verify/YG7DXKDAKKF6
 
 Course 3: Data Visualization and Communication with Tableau
 https://www.coursera.org/learn/analytics-tableau/home/info
@@ -54,7 +52,7 @@ In this course you will learn how to become a master at communicating business-r
 
 5 weeks, 6-8 hours per week
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/HKDTQGCLCR5W
+Certificate: https://www.coursera.org/account/accomplishments/verify/KQJBD4YE5RZ7
 
 Course 4: Managing Big Data with MySQL
 https://www.coursera.org/learn/analytics-mysql/home/info
@@ -65,17 +63,4 @@ By the end of this course, you will have a clear understanding of how relational
 
 5 semanas, 3-5 horas por semana
 
-Certificate: https://www.coursera.org/account/accomplishments/verify/YB8SD4VZPLLL
-
-Course 5: Increasing Real Estate Management Profits: Harnessing Data Analytics
-https://www.coursera.org/learn/analytics-capstone/home/info
-
-In this final course you will complete a Capstone Project using data analysis to recommend a method for improving profits for your company, Watershed Property Management, Inc. Watershed is responsible for managing thousands of residential rental properties throughout the United States. Your job is to persuade Watershed’s management team to pursue a new strategy for managing its properties that will increase their profits. To do this, you will: (1) Elicit information about important variables relevant to your analysis; (2) Draw upon your new MySQL database skills to extract relevant data from a real estate database; (3) Implement data analysis in Excel to identify the best opportunities for Watershed to increase revenue and maximize profits, while managing any new risks; (4) Create a Tableau dashboard to show Watershed executives the results of a sensitivity analysis; and (5) Articulate a significant and innovative business process change for Watershed based on your data analysis, that you will recommend to company executives.
-
-Airbnb, our Capstone’s official Sponsor, provided input on the project design. The top 10 Capstone completers each year will have the opportunity to present their work directly to senior data scientists at Airbnb live for feedback and discussion.
-
-"Note: Only learners who have passed the four previous courses in the specialization are eligible to take the Capstone."
-
-8 weeks of study, 8-10 hours/week
-
-Certificate: https://www.coursera.org/account/accomplishments/verify/X4YRJSZRSKPT
+Certificate: https://www.coursera.org/account/accomplishments/verify/4ZKWPVA78MUH
